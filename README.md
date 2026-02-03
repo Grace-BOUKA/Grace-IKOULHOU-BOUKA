@@ -79,7 +79,7 @@ Mon parcours académique et mes expériences professionnelles m’ont permis de 
 
 ---
 
-## Formation
+## Formations
 
 **Master EEA – Ingénierie des Systèmes Temps Réels**  
 Université Paul Sabatier (Toulouse III) | *2025 – 2027*
