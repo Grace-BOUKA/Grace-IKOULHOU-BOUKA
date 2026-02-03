@@ -62,7 +62,7 @@ Mon parcours académique et mes expériences professionnelles m’ont permis de 
 
 - Automatisation d’une serre à l’aide de capteurs et actionneurs
 - Pilotage par microcontrôleur
-- Conception mécanique et simulation du système
+- Conception mécanique, simulation du système et deploiement
 
 **Technologies :** Arduino Mega, C, Proteus, Inventor  
 
