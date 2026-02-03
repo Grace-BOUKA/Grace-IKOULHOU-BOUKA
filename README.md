@@ -1,5 +1,5 @@
 # Grace Ikoulhou Bouka  
-**Étudiante Ingénieure – Systèmes Temps Réels, Automatisme & Contrôle-Commande**
+**Apprenti Ingénieur – Systèmes Temps Réels/Embarqués**
 
 📍 Toulouse, France  
 📧 gracebooka3337@gmail.com  
@@ -7,13 +7,13 @@
 
 ---
 
-## Profil
+## A propos de moi
 
-Étudiante en **Master EEA – Ingénierie des Systèmes Temps Réels**, je me spécialise dans la **conception, la supervision et le contrôle de systèmes industriels et embarqués**.  
+Étudiant en **Master EEA – Ingénierie des Systèmes Temps Réels**, je me spécialise dans la **conception, la supervision et le contrôle de systèmes industriels et embarqués**.  
 Mon parcours académique et mes expériences professionnelles m’ont permis de développer une **approche rigoureuse, orientée ingénierie système**, alliant modélisation, programmation et automatisation.
 
 🎯 **Objectifs professionnels**  
-- Stage de **minimum 2 mois à partir de mi-mai**  
+- Stage de **minimum 3 mois à partir de mi-mai 2026**  
 - Alternance **2026–2027** en **supervision, contrôle-commande ou automatisme industriel**
 
 ---
