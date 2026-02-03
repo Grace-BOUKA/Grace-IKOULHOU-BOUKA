@@ -14,7 +14,7 @@ Mon parcours académique et mes expériences professionnelles m’ont permis de 
 
 🎯 **Objectifs professionnels**  
 - Stage de **minimum 3 mois à partir de mi-mai 2026**  
-- Alternance **2026–2027** en **supervision, contrôle-commande ou automatisme industriel**
+- Alternance **2026–2027** en **supervision, contrôle-commande ou conception des systèmes industriels/embarqués**
 
 ---
 
