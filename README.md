@@ -2,7 +2,7 @@
 **Apprenti Ingénieur – Systèmes Temps Réels/Embarqués**
 
 📍 Toulouse, France  
-📧 gracebooka3337@gmail.com  
+📧 gracebouka3337@gmail.com
 🔗 GitHub : https://github.com/Grace-BOUKA 
 
 ---
