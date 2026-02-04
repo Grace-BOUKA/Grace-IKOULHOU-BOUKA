@@ -3,7 +3,7 @@
 
 📍 Toulouse, France  
 📧 gracebooka3337@gmail.com  
-🔗 GitHub : https://github.com/Grace-BOUKA  
+🔗 GitHub : https://github.com/Grace-BOUKA 
 
 ---
 
