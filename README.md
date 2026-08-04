@@ -69,7 +69,7 @@ Mon parcours académique et mes expériences professionnelles m’ont permis de 
 ---
 
 ### Simulation de processus industriel avec automates Siemens (2025)
-🔗 https://github.com/grace-bouka3337/industrial-process-simulation  
+🔗 https://github.com/Grace-BOUKA/Commande-d-un-robot-mobile-pour-la-navigation-autonome/tree/main
 
 - Programmation d’automates Siemens pour une ligne de production
 - Mise en œuvre de GRAFCET
