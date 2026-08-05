@@ -13,7 +13,7 @@
 Mon parcours académique et mes expériences professionnelles m’ont permis de développer une **approche rigoureuse, orientée ingénierie système**, alliant modélisation, programmation et automatisation.
 
 🎯 **Objectifs professionnels**  
-- Stage de **minimum 3 mois à partir de mi-mai 2026**  
+- Stage de **6 mois à partir de Février 2027**  
 - Alternance **2026–2027** en **supervision, contrôle-commande ou conception des systèmes industriels/embarqués**
 
 ---
